@@ -20,7 +20,7 @@
   <img align="center" alt="Geronimo-GitLab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
   <img align="center" alt="Geronimo-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Geronimo-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  <img align="right" alt="Rafa-yoda" src="https://im4.ezgif.com/tmp/ezgif-4-a56741714571.gif">
+  <img align="right" alt="Rafa-yoda" src="https://im4.ezgif.com/tmp/ezgif-4-763b056bd5d5.gif">
 </div>
   
   ##
