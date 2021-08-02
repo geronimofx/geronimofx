@@ -36,6 +36,15 @@
 </div>
 
   <!--
+Sites e referências utilizadas:
+https://www.youtube.com/watch?v=TsaLQAetPLU&ab_channel=RafaellaBallerini
+https://dev.to/envoy_/150-badges-for-github-pnk
+https://github.com/devicons/devicon
+https://github.com/anuraghazra/github-readme-stats
+https://emojipedia.org/search/?q=bag
+https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open
+https://picrew.me/image_maker/79981/complete?cd=uvCVaKn4uH
+https://ezgif.com/
 **geronimofx/geronimofx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
