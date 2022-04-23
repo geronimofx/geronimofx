@@ -21,7 +21,7 @@ src="https://img.shields.io/github/followers/geronimofx?logo=github&style=for-th
   <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geronimofx&layout=compact&langs_count=7&theme=synthwave&title_color=a855f7&text_color=ffffff&bg_color=1c1917"/>
 </div>
 
-<br>
+<br/>
 ### Skills
 
 <p align="left">
@@ -37,7 +37,7 @@ src="https://img.shields.io/github/followers/geronimofx?logo=github&style=for-th
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="36" height="36" alt="GitHub" /></a>
 
-<br>
+<br/>
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/geronimofx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/geronimofx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/geronimofx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/geronimofc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/geronimo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
