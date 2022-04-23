@@ -18,7 +18,7 @@ src="https://img.shields.io/github/followers/geronimofx?logo=github&style=for-th
 <div>
   <a href="https://github.com/geronimofx">
   <img height="175px" src="https://github-readme-stats.vercel.app/api?username=geronimofx&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&show_icons=true" alt="geronimofx's GitHub stats"/>
-  <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geronimofx&layout=compact&langs_count=7&theme=synthwave&title_color=a855f7&text_color=ffffff&bg_color=1c1917"/>
+  <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geronimofx&layout=compact&langs_count=7&theme=synthwave&title_color=a855f7&text_color=ffffff&bg_color=1c1917"/></a>
 </div>
 
 <br/>
