@@ -53,3 +53,5 @@ src="https://img.shields.io/github/followers/geronimofx?logo=github&style=for-th
 </div>
 
 <img align="center" alt="Kitsune-Fox" src="https://i.picasion.com/pic91/55b68f8a93093924f538bd332f9e3716.gif">
+
+![Snake animation](https://github.com/geronimofx/geronimofx/blob/output/github-contribution-grid-snake.svg)
