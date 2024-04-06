@@ -6,11 +6,9 @@ Full-stack Developement (Focus on Front-end)
 
 * 🌍  I'm based in Natal/RN in brazil.
 * ✉️  You can contact me at [rafaelgeronimofx@gmail.com](mailto:rafaelgeronimofx@gmail.com).
-* 🚀  I'm currently working on [ITEP-RN](http://www.itep.rn.gov.br/).
-* 🧠  I'm learning: I'm focusing on learning some back-end stacks such as python with django and node js to improve my full-stack skills and Docker.
-* 💬 Ask me about ...
+* 🚀  I'm currently working on [Grt8](https://grt8.com.br/).
 * 😄 Pronouns: He/Him.
-* ⚡ Fun fact: At the beginer of the 2020 pandemic I start to listen BTS and now I'm a huge fan of K-pop groups.
+* 🧠  I'm learning: I am currently focused on deepening and consolidating my knowledge in the Angular and React Js frameworks, which are technologies used in the company where I work. In my free time I like to venture out and study a little about the back end using Node Js or Django.
 
 <a href="https://www.github.com/geronimofx" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/geronimofx?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a>
